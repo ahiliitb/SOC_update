@@ -1,0 +1,23 @@
+Introduction
+This report documents our learning journey from FreeCodeCamp to developing an E-commerce website. We started by acquiring knowledge in CSS, HTML, and JavaScript, followed by exploring Python through a web scraping project. Subsequently, we delved into Docker, learning how to deploy projects and websites. Finally, we embarked on our final project, focusing on building the frontend part of an E-commerce website with plans for the backend development.
+
+Learning HTML, CSS, and JavaScript
+Our learning journey began with FreeCodeCamp, where we gained a strong foundation in web development. We familiarized ourselves with HTML for structuring web pages, CSS for styling and layout, and JavaScript for adding interactivity and dynamic behavior to websites.
+
+Python Web Scraping Project
+To expand our knowledge, we undertook a project on web scraping. During this endeavor, we extensively utilized Python and various libraries such as pandas, BeautifulSoup (bs4), and requests. Python's pandas library empowered us to manipulate and analyze data efficiently. With BeautifulSoup, we successfully scraped web data, and the requests module facilitated HTTP requests and data retrieval.
+
+Exploring Docker
+In our quest to enhance our development skills, we turned to Docker. We gained insights from resources such as the programming with Mosh and CodeWithHarry YouTube channels. Docker provided us with a containerization platform that facilitated seamless deployment and management of applications across various environments. We learned to containerize our projects, ensuring consistency and reproducibility across different systems.
+
+Deployment of Projects and Websites
+Utilizing our newfound knowledge of Docker, we successfully deployed our projects and websites. We employed Docker to package and distribute our Python web scraping project, ensuring its availability and ease of use across different systems. Additionally, we deployed a portfolio website through GitHub, utilizing Git's version control capabilities for efficient collaboration and code management.
+
+Final Project: E-commerce Website Development
+Having acquired essential skills and knowledge, we embarked on our final project—an E-commerce website. Our approach was to first focus on developing the frontend part, ensuring an engaging user interface and seamless user experience. By leveraging our expertise in HTML, CSS, and JavaScript, we designed and implemented various features and components to create an aesthetically pleasing and functional website.
+
+Future Plans: Backend Development
+With the frontend development underway, our next step is to delve into backend development for our E-commerce website. We plan to leverage our Python skills, combined with frameworks such as Django or Flask, to build the server-side components. This will involve integrating databases, handling user authentication, managing product listings, and implementing payment gateways.
+
+Conclusion
+Our learning journey, starting from FreeCodeCamp, equipped us with a solid foundation in web development using HTML, CSS, and JavaScript. Through a Python web scraping project, we gained proficiency in libraries like pandas, bs4, and requests, broadening our knowledge in data manipulation and web scraping techniques. Exploring Docker enabled us to streamline deployment processes and ensure consistent application performance. With successful project deployments and a portfolio website under our belt, we embarked on our final project—an E-commerce website—where we are currently focused on frontend development. The subsequent phase will involve backend development using Python frameworks. This journey has provided us with a well-rounded skill set, empowering us to tackle real-world web development challenges effectively.
